@@ -20,7 +20,7 @@
 .banner{
     position: relative; 
     background-color: #242582;
-    min-height: 50vh;
+    min-height: 60vh;
     background-size: cover;
     background-position: center;
 }
@@ -76,11 +76,19 @@
 .place-left{
     float: left;
     height: 200px;
-    width: 50%;
+    width: 47%;
 }
 
 .place-right{
     float: right;
     height: 200px;
-    width: 50%;
+    width: 47%;
+}
+
+.banner2{
+    position: relative; 
+    background-color: #242582;
+    min-height: 60vh;
+    background-size: cover;
+    background-position: center;
 }
