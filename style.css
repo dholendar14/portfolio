@@ -1,0 +1,51 @@
+@font-face {
+    font-family: gistesy;
+    src: url(/fonts/Gistesy\ 400.ttf);
+}
+
+.navbar-brand {
+    font-family: gistesy;
+    font-weight: bold;
+    font-size: 300%;
+    margin-left: 20px;
+}
+
+.banner{
+    position: relative; 
+    background-color: #242582;
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar{
+    background-color: #242582;
+}
+
+.nav-link{
+    font-family: 'Mulish', sans-serif;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.name-text{
+    font-family: gistesy;
+    font-size: 120px;
+    color: blanchedalmond;
+}
+
+.occupation-text{
+    color: burlywood;
+    letter-spacing: 0.5cm;
+    font-family: 'Mulish';
+}
+
+.skills-text{
+    font-family: 'arvo',shrief;  
+}
+
+.text{
+    font-family: 'Mulish';
+    font-weight: bold;
+    font-size: 20px;
+}
