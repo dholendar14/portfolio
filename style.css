@@ -2,6 +2,10 @@
     font-family: gistesy;
     src: url(/fonts/Gistesy\ 400.ttf);
 }
+@font-face {
+    font-family: Mate SC;
+    src: url(fonts/MateSC-Regular.ttf);
+}
 
 .html{
     scroll-behavior: smooth;
@@ -64,6 +68,6 @@
 
   .cert-text{
       color: white;
-      font-family: 'Mate SC', serif;
+      font-family: Mate SC, serif;
       font-size: 20px;
   }
