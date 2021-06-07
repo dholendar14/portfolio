@@ -3,6 +3,9 @@
     src: url(/fonts/Gistesy\ 400.ttf);
 }
 
+.html{
+    scroll-behavior: smooth;
+}
 .navbar-brand {
     font-family: gistesy;
     font-weight: bold;
@@ -49,3 +52,18 @@
     font-weight: bold;
     font-size: 20px;
 }
+
+.Certificate-text{
+    font-family: 'Mulish';
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+
+
+  .cert-text{
+      color: white;
+      font-family: 'Mate SC', serif;
+      font-size: 20px;
+  }
