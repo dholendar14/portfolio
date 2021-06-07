@@ -66,8 +66,21 @@
 
 
 
-  .cert-text{
+.cert-text{
       color: white;
       font-family: Mate SC, serif;
       font-size: 20px;
   }
+
+  
+.place-left{
+    float: left;
+    height: 200px;
+    width: 50%;
+}
+
+.place-right{
+    float: right;
+    height: 200px;
+    width: 50%;
+}
